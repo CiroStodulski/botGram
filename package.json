@@ -1,0 +1,25 @@
+{
+  "name": "botgram-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CiroStodulski/botGram.git"
+  },
+  "author": "Ciro Stodulski de Azevedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CiroStodulski/botGram/issues"
+  },
+  "homepage": "https://github.com/CiroStodulski/botGram#readme",
+  "dependencies": {
+    "botgram": "^2.2.0",
+    "mongoose": "^5.4.16",
+    "string-similarity": "^3.0.0"
+  }
+}
